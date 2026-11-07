@@ -1,0 +1,8 @@
+Shadowboard Godot web build - LOCAL PROTOTYPE (test link)
+engine: 4.7.2.stable.official.ed1daf0bf
+preset: Web (single-threaded, Compatibility renderer, no SharedArrayBuffer / cross-origin isolation needed)
+mode: --export-release
+assets included: 1
+built: 2026-11-07T05:53:02Z
+source: 5d3061c6ccd4635a5ab1e992f4f7defb1aa079ac (+ uncommitted working tree)
+notices: THIRD_PARTY_NOTICES.md, LICENSES/V8.txt; Godot Engine license: https://godotengine.org/license
