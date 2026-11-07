@@ -3,6 +3,6 @@ engine: 4.7.2.stable.official.ed1daf0bf
 preset: Web, threads DISABLED (variant/thread_support=false; no SharedArrayBuffer / cross-origin isolation needed), Compatibility renderer
 mode: --export-release
 assets included: 1
-built: 2026-11-07T17:34:04Z
-source: d793e9af3fab6ffe2dca554b7e06ded8046ee659 (branch godot4-overhaul, clean committed tree)
+built: 2026-11-07T20:10:24Z
+source: db9261b05c746ee739e192fe91b4fc737f14d8b6 (branch godot4-overhaul, clean committed tree)
 notices: THIRD_PARTY_NOTICES.md, LICENSES/V8.txt, LICENSES/Liberation-fonts.txt; Godot Engine license: https://godotengine.org/license
