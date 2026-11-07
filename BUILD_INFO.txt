@@ -1,8 +1,8 @@
-Shadowboard Godot web build - LOCAL PROTOTYPE (test link)
+Shadowboard Godot web build - LOCAL PROTOTYPE (not published)
 engine: 4.7.2.stable.official.ed1daf0bf
-preset: Web (single-threaded, Compatibility renderer, no SharedArrayBuffer / cross-origin isolation needed)
+preset: Web, threads DISABLED (export_presets.cfg variant/thread_support=false; no SharedArrayBuffer / cross-origin isolation needed), Compatibility renderer
 mode: --export-release
 assets included: 1
-built: 2026-11-07T05:53:02Z
-source: 5d3061c6ccd4635a5ab1e992f4f7defb1aa079ac (+ uncommitted working tree)
+built: 2026-11-07T12:15:06Z
+source: a2f052a10fbdba1b3e8807e12b52a6e40dcc21ce (branch godot4-overhaul, clean committed tree, verified git status empty before export)
 notices: THIRD_PARTY_NOTICES.md, LICENSES/V8.txt; Godot Engine license: https://godotengine.org/license
