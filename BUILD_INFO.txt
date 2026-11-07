@@ -3,6 +3,6 @@ engine: 4.7.2.stable.official.ed1daf0bf
 preset: Web, threads DISABLED (variant/thread_support=false; no SharedArrayBuffer / cross-origin isolation needed), Compatibility renderer
 mode: --export-release
 assets included: 1
-built: 2026-11-07T15:31:55Z
-source: cd5cb7f9ccd1ae87ef9666944f420e9c290dceb5 (branch godot4-overhaul, clean committed tree)
+built: 2026-11-07T17:02:17Z
+source: e0f3217fa46f426414fce70ca643e8b2607c96a5 (branch godot4-overhaul, clean committed tree)
 notices: THIRD_PARTY_NOTICES.md, LICENSES/V8.txt; Godot Engine license: https://godotengine.org/license
